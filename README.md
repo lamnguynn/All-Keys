@@ -1,6 +1,6 @@
 # All Keys
 
-A simple and secure password manager app used to store and utilize your credentials. Avaliable on the app store now!
+A simple and secure password manager app used to store and utilize your credentials. Avaliable for iOS on the app store [now](https://apps.apple.com/us/app/all-keys/id1576077213)!
 
 ## Features
 - Autofill credentials into supporting apps and websites
